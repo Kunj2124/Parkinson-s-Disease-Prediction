@@ -1,8 +1,8 @@
 # Parkinso's-Disease-Prediction
-Project Description
+##Project Description
 This project aims to predict the presence of Parkinson's disease using voice measurements. The project involves loading and preprocessing the dataset, handling class imbalance, training various classification models, and evaluating their performance.
 
-Methodology
+##Methodology
 Data Loading and Exploration: The parkinson_disease.csv dataset was loaded and inspected for its structure, data types, and missing values.
 Data Preprocessing:
 Data was grouped by 'id' to get the mean of features for each individual.
