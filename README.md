@@ -26,5 +26,7 @@ Support Vector Classifier (SVC)
 The models were evaluated based on their performance on the validation set. The ROC AUC scores were:
 
 Logistic Regression: 0.8166
+
 XGBoost Classifier: 0.6467
+
 SVC: 0.6458
